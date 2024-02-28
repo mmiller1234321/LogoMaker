@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Martin Miller",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
