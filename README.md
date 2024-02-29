@@ -38,7 +38,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Walk-through Video
 
-[Watch the walk-through video](https://youtu.be/dgqv_X94m8A)
+[Watch the walk-through video](https://youtu.be/uzU37i9K834)
 
 
 
