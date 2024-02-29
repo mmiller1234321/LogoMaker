@@ -38,10 +38,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Walk-through Video
 
-<video width="320" height="240" controls>
-  <source src=""C:\Users\senat\Downloads\Untitled_ Feb 29, 2024 10_24 AM.webm"" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+"C:\Users\senat\Downloads\Untitled_ Feb 29, 2024 10_24 AM.webm"
 
 
 
